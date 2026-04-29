@@ -1,0 +1,16 @@
+.next/
+node_modules/
+.env*
+out/
+
+# Added by Varity
+__pycache__/
+*.pyc
+.env
+.env.local
+.env.*.local
+dist/
+build/
+.venv/
+venv/
+.DS_Store
